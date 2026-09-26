@@ -1,0 +1,6 @@
+{
+  "name": "CollegeDekoded AI",
+  "description": "India-first AI College Decision Platform with conversational counselor, hard eligibility filters, verified data sources, and transparent fit recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
